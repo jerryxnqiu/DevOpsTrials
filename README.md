@@ -1,0 +1,13 @@
+# **Terraform**
+- ## Auto deploy EC2 instance in AWS with below installed
+    - ### New VPC
+    - ### New Internet Gateway
+    - ### New Custom Route Table
+    - ### New Subnet
+    - ### Configure Security Group to allow port for k8s
+    - ### Create network interface with an known IP address
+    - ### Assign an elastic IP
+    - ### Docker
+    - ### Disable the swap
+    - ### Configure the forwarding IPv4 and letting iptables see see bridged traffic
+    - ### Terraform seems not able to run wget command
